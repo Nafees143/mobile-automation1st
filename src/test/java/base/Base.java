@@ -23,7 +23,7 @@ public static AndroidDriver<AndroidElement> driver;
 		
 		//Opening Emulator
 		DesiredCapabilities cap= new DesiredCapabilities();
-		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "");
+		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Android Device");
 		cap.setCapability(MobileCapabilityType.APP, fs.getAbsolutePath());
 		
 		//Running Server in the mentioned port
