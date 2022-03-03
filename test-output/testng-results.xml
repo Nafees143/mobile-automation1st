@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-02T15:29:37 BDT" name="Default suite" finished-at="2022-03-02T15:29:59 BDT" duration-ms="21831">
+  <suite name="Default suite" duration-ms="15046" started-at="2022-03-03T10:53:08 BDT" finished-at="2022-03-03T10:53:23 BDT">
     <groups>
     </groups>
-    <test started-at="2022-03-02T15:29:37 BDT" name="Default test" finished-at="2022-03-02T15:29:59 BDT" duration-ms="21831">
+    <test name="Default test" duration-ms="15046" started-at="2022-03-03T10:53:08 BDT" finished-at="2022-03-03T10:53:23 BDT">
       <class name="testCases.Ecommerce">
-        <test-method signature="mySecondTest()[pri:0, instance:testCases.Ecommerce@4fb0f2b9]" started-at="2022-03-02T15:29:37 BDT" name="mySecondTest" finished-at="2022-03-02T15:29:59 BDT" duration-ms="21759" status="PASS">
+        <test-method status="PASS" signature="mySecondTest()[pri:0, instance:testCases.Ecommerce@10a035a0]" name="mySecondTest" duration-ms="14994" started-at="2022-03-03T10:53:08 BDT" finished-at="2022-03-03T10:53:23 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySecondTest -->
