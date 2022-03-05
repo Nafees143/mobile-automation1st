@@ -32,19 +32,6 @@ public class P1_HomePage {
 	@AndroidFindBy(id = "com.androidsample.generalstore:id/btnLetsShop")
 	public WebElement letsShop;
 	
-	@AndroidFindBy(id = "com.androidsample.generalstore:id/productAddCart")
-	public WebElement addToCart;
-
-	
-	@AndroidFindBy(id = "com.androidsample.generalstore:id/appbar_btn_cart")
-	public WebElement goToCart;
-	
-	@AndroidFindBy(xpath ="//*[@text='Send me e-mails on discounts related to selected products in future']")
-	public WebElement sendMail;
-	
-	@AndroidFindBy(id = "com.androidsample.generalstore:id/appbar_btn_back")
-	public WebElement backButton;
-	
 }
 
 
