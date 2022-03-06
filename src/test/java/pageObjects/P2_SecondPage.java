@@ -22,7 +22,6 @@ public class P2_SecondPage {
 	@AndroidFindBy(id="com.androidsample.generalstore:id/productAddCart")
 	public List<WebElement> addToCart;
 	
-	
 	@AndroidFindBy(id="com.androidsample.generalstore:id/appbar_btn_cart")
 	public WebElement goToCart;	
 	

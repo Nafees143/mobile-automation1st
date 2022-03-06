@@ -69,6 +69,9 @@ public class Ecommerce extends Base {
 		
 		three.backButton.click();
 		Thread.sleep(1000);
+		
+		three.backButton.click();
+		Thread.sleep(1000);
 	}
 	
 }

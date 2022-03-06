@@ -13,7 +13,6 @@ public class P1_HomePage {
 		PageFactory.initElements(new AppiumFieldDecorator(driver),this);	
 	}
 	
-	
 	@AndroidFindBy(id = "com.androidsample.generalstore:id/nameField")
 	public WebElement nameField;
 	
